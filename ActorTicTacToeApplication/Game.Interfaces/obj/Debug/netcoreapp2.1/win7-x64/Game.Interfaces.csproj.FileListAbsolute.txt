@@ -1,0 +1,9 @@
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.deps.json
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.dll
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.pdb
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.csprojAssemblyReference.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.csproj.CoreCompileInputs.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.AssemblyInfoInputs.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.AssemblyInfo.cs
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.dll
+F:\ServiceFabric\ActorTicTacToeApplication\Game.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Game.Interfaces.pdb

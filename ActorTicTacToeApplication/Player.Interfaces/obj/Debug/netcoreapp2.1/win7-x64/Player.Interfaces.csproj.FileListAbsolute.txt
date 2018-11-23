@@ -1,0 +1,9 @@
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.deps.json
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.dll
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.pdb
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.csprojAssemblyReference.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.csproj.CoreCompileInputs.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.AssemblyInfoInputs.cache
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.AssemblyInfo.cs
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.dll
+F:\ServiceFabric\ActorTicTacToeApplication\Player.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\Player.Interfaces.pdb
